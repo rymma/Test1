@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, world!
+=======
+Ajout d'une ligne dans la branche testTest1
+>>>>>>> testTest1
